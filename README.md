@@ -6,3 +6,4 @@ E-commerce App in React Native
 - Added Styles
 - Basic skeleton is done
 - The API is added
+- Authentication error during connection
