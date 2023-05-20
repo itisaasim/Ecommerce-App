@@ -5,4 +5,4 @@ E-commerce App in React Native
 - functionalities are still pending.
 - Added Styles
 - Basic skeleton is done
-- 
+- The API is added
