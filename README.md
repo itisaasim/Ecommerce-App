@@ -7,3 +7,4 @@ E-commerce App in React Native
 - Basic skeleton is done
 - The API is added
 - Authentication error during connection
+- login page complete.
