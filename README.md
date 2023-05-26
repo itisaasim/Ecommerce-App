@@ -8,3 +8,4 @@ E-commerce App in React Native
 - The API is added
 - Authentication error during connection
 - login page complete.
+- changed the color combination
