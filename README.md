@@ -9,3 +9,4 @@ E-commerce App in React Native
 - Authentication error during connection
 - login page complete.
 - changed the color combination
+- added cart functionality
