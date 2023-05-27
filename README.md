@@ -10,3 +10,4 @@ E-commerce App in React Native
 - login page complete.
 - changed the color combination
 - added cart functionality
+- Added widget to the products page
