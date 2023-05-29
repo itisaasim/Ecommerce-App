@@ -11,4 +11,5 @@ E-commerce App in React Native
 - changed the color combination
 - added cart functionality
 - Added widget to the products page
-sjkaksjsh
+- the Payment integration is done
+- 
