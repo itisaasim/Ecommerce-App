@@ -10,7 +10,7 @@ E-commerce App in React Native
 - login page complete.
 - changed the color combination
 - added cart functionality
-- Added widget to the products page
+- Added widget to the products page.
 - the Payment integration is done
 - the stripe is API is causing issue
 - Stripe Api is fixed
