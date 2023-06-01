@@ -14,4 +14,4 @@ E-commerce App in React Native
 - the Payment integration is done
 - the stripe is API is causing issue
 - Stripe Api is fixed
-- connected to the firbase databse
+- connected to the firbase database
