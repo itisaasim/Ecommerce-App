@@ -16,4 +16,4 @@ E-commerce App in React Native
 - Stripe Api is fixed
 - connected to the firbase database
 - adding lazyload and few other animations
-- 
+- tailwind css
