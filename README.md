@@ -15,3 +15,5 @@ E-commerce App in React Native
 - the stripe is API is causing issue
 - Stripe Api is fixed
 - connected to the firbase database
+- adding lazyload and few other animations
+- 
