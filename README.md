@@ -17,3 +17,5 @@ E-commerce App in React Native
 - connected to the firbase database
 - adding lazyload and few other animations
 - tailwind css is being used
+- added some functionalities that werent there before  
+- 
