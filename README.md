@@ -19,3 +19,5 @@ E-commerce App in React Native
 - tailwind css is being used
 - added some functionalities that werent there before  
 - its near completion
+- Still needs improvement
+- 
