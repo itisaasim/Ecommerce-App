@@ -20,4 +20,5 @@ E-commerce App in React Native
 - added some functionalities that werent there before  
 - its near completion
 - Still needs improvement
+- fixed some bugs
 - 
