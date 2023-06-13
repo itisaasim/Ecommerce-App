@@ -22,4 +22,4 @@ E-commerce App in React Native
 - Still needs improvement
 - fixed some bugs
 - Deployed on docker
-- 
+- Code is working on docker instances
