@@ -1,23 +1,23 @@
-# Ecommerce-App
+# E-commerce-App
 E-commerce App in React Native
 
-- landing page is done.
+- the landing page is done.
 - functionalities are still pending.
 - Added Styles
 - Basic skeleton is done
 - The API is added
 - Authentication error during connection
-- login page complete.
+- login page is complete.
 - changed the color combination
 - added cart functionality
 - Added widget to the products page.
 - the Payment integration is done
-- the stripe is API is causing issue
-- Stripe Api is fixed
-- connected to the firbase database
-- adding lazyload and few other animations
+- the stripe is API is causing the issue
+- Stripe API is fixed
+- connected to the Firebase database
+- adding lazyload and a few other animations
 - tailwind css is being used
-- added some functionalities that werent there before  
+- added some functionalities that weren't there before  
 - its near completion
 - Still needs improvement
 - fixed some bugs
