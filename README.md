@@ -24,3 +24,4 @@ E-commerce App in React Native
 - Deployed on docker
 - Code is working on docker instances
 - launching it on server
+- ssl encryption done
