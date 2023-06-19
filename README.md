@@ -25,3 +25,4 @@ E-commerce App in React Native
 - Code is working on docker instances
 - launching it on server
 - ssl encryption done
+- database connectivitiy issue
