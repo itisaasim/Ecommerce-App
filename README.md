@@ -16,7 +16,7 @@ E-commerce App in React Native
 - Stripe API is fixed
 - connected to the Firebase database
 - adding lazyload and a few other animations
-- tailwind css is being used
+- tailwind CSS is being used
 - added some functionalities that weren't there before  
 - its near completion
 - Still needs improvement
