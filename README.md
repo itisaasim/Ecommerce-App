@@ -27,3 +27,4 @@ E-commerce App in React Native
 - SSL encryption done
 - database connectivity issue fixed
 - http to https connectivity issues
+- Products page is complete
