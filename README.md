@@ -28,3 +28,4 @@ E-commerce App in React Native
 - database connectivity issue fixed
 - http to https connectivity issues
 - Products page is complete
+- adding filters
