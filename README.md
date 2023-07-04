@@ -30,4 +30,4 @@ E-commerce App in React Native
 - Products page is complete
 - added filters
 - color coding is finished
-- add to cart functionality not working
+- add to cart functionality working
