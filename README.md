@@ -15,7 +15,7 @@ E-commerce App in React Native
 - the stripe API is causing the problem
 - Stripe API is fixed
 - connected to the Firebase database
-- adding lazyload and a few other animations
+- adding lazyload and a few other animation
 - tailwind CSS is being used
 - added some functionalities that weren't there before  
 - its near completion
