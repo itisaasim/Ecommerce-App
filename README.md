@@ -23,13 +23,13 @@ E-commerce App in React Native
 - fixed some bugs
 - Deployed on docker
 - Code is working on docker instances
-- launching it on the server
+- Launching it on the server
 - SSL encryption done
 - database connectivity issue fixed
-- http to https connectivity issues
-- Products page is complete
+- HTTP to HTTPS connectivity issues
+- The products page is complete
 - added filters
-- color coding is finished
+- Color coding is finished
 - add to cart functionality added
-- firebase issues 
+- firebase issues solved
 - 
