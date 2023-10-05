@@ -29,7 +29,6 @@ E-commerce App in React Native
 - HTTP to HTTPS connectivity issues
 - The products page is complete
 - added filters
-
 - Color coding is finished
 - add to cart functionality added
 - firebase issues 
