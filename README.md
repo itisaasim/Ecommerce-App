@@ -13,7 +13,7 @@ E-commerce App in React Native
 - Added widget to the products page.
 - the Payment integration is done
 - the stripe API is causing the problem
-- Stripe API is fixed
+- Stripe API is fix
 - connected to the Firebase database
 - adding lazyload and a few other animation
 - tailwind CSS is being used
