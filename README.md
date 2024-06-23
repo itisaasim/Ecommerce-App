@@ -31,5 +31,4 @@ E-commerce App in React Native
 - added filters
 - Color coding is finished
 - add to cart functionality added
-- firebase issue solved
-- 
+- firebase issue 
