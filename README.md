@@ -20,7 +20,7 @@ E-commerce App in React Native
 - added some functionalities that weren't there before  
 - its near completion
 - Still needs improvement
-- fixed some 
+- fixed some bugs
 - Deployed on docker
 - Code is working on docker instances
 - Launching it on the server
